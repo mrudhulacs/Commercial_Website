@@ -280,22 +280,26 @@ Upload to GitHub Pages for free hosting.
 
         <div class="contact-container">
 
-             <div class="contact-card">
+            <div class="contact-card">
                 <h3>👩 Website Developer</h3>
                 <p>Mrudhula CS</p>
             </div>
 
             <div class="contact-card">
                 <h3>📞 Phone</h3>
-                <p>+91 9391723057</p>
+                <p>
+                    <a href="tel:+919391723057">+91 9391723057</a>
+                </p>
             </div>
 
             <div class="contact-card">
                 <h3>✉ Email</h3>
-                <p>mrudhula235@gamil.com</p>
+                <p>
+                    <a href="mailto:mrudhula235@gamil.com">
+                        mrudhula235@gamil.com
+                    </a>
+                </p>
             </div>
-
-           
 
         </div>
 
